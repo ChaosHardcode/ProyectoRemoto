@@ -1,2 +1,3 @@
 # ProyectoRemoto
-Practicas con git
+Practicas con git con fines practicos
+
